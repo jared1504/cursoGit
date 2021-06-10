@@ -26,3 +26,12 @@ body{
     color: black;
     margin: 0 auto;
 }
+
+#fotter{
+    background-color: blanchedalmond;
+    color: blue;
+    height: 80px;
+}
+#pFotter{
+    text-transform: uppercase;
+}
