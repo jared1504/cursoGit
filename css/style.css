@@ -24,6 +24,6 @@ body{
 #header{
     background-color: wheat;
     color: black;
-    width: 70%;
     margin: 0 auto;
+    padding: 500px auto;
 }
