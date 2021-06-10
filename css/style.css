@@ -27,3 +27,15 @@ body{
     color: black;
     margin: 0 auto;
 }
+<<<<<<< HEAD
+=======
+
+#fotter{
+    background-color: blanchedalmond;
+    color: blue;
+    height: 80px;
+}
+#pFotter{
+    text-transform: uppercase;
+}
+>>>>>>> fotter
